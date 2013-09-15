@@ -32,6 +32,10 @@ or change DEFAULT_BOUNDARY_CASHING to true, if you want to set boundary caching
 on all LoopViewPager instances
 
 
+Sample
+------
+You can see a sample usage on [ViewPagerIndicator fork][3] (by [Jake Wharton][5])   
+or on [PagerSlidingTabStrip fork][4] (by [Andreas Stütz][6])   
 
 License
 =======
@@ -54,3 +58,7 @@ License
     
  [1]: https://github.com/JakeWharton/Android-ViewPagerIndicator
  [2]: https://github.com/astuetz/PagerSlidingTabStrip
+ [3]: https://github.com/imbryk/Android-ViewPagerIndicator/compare/master...loopingViewPager-demo
+ [4]: https://github.com/imbryk/PagerSlidingTabStrip/compare/master...loopingViewPager-demo
+ [5]: https://github.com/JakeWharton
+ [6]: https://github.com/astuetz
