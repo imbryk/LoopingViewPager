@@ -149,6 +149,11 @@ public class LoopPagerAdapterWrapper extends PagerAdapter {
         mAdapter.startUpdate(container);
     }
 
+    @Override
+    public void setPrimaryItem(ViewGroup container, int position, Object object) {
+        mAdapter.setPrimaryItem(container, position, object);
+    }
+
     /*
      * End delegation
      */
