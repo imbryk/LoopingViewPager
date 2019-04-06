@@ -1,5 +1,5 @@
-DEPRECATED
-==========
+NO LONGER MAINTAINED
+====================
 
 LoopingViewPager
 ================
